@@ -11,7 +11,7 @@
   <packaging>jar</packaging>
 
   <properties>
-    <cdap.version>6.0.0-SNAPSHOT</cdap.version>
+    <cdap.version>6.4.1</cdap.version>
     <wrangler.version>4.0.0</wrangler.version>
     <commons.codec.version>1.10</commons.codec.version>
     <junit.version>4.12</junit.version>
